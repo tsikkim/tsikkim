@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tsikkim
-- 👀 I’m interested in web development, AR-VR , IOT
-- 🌱 I’m currently learning creating blogs
+- 👋 Hi, I’m Tashey
 - 💞️ I’m looking to collaborate on any technical topics 
 - 📫 Reache me at tatshbhu@gmail.com 
 
